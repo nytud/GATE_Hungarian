@@ -16,8 +16,8 @@ The plugin contains the following GATE Processing Resources:
 
 You will also find the following ready made applications in GATE Developer (to access, in the menu click *File* -> *Ready Made Applications* -> *Hungarian*, or right-click *Applications* in the GATE Resources tree):
 
-* Magyaránc Morphparse
-* Magyarlánc Depparse 
+* Magyarlánc Morphparse (Sentence Splitter and Tokenizer + Pos Tagger and Lemmatizer)
+* Magyarlánc Depparse (Morphparse + Depdendency Parser)
 
 Source files are included.
 
