@@ -1,11 +1,13 @@
 # Lang_Hungarian
 
-Pre-release #1 (2015-11-16)
+Pre-release #2 (2016-01-22)
 
 This is a public pre-release of the **Lang_Hungarian** [GATE](http://gate.ac.uk/) plugin developed by RIL-MTA.
 
 The plugin contains the following GATE Processing Resources:
 
+* Hunpos Hungarian PoS-tagger (Linux)
+* HunMorph Hungarian morphological analyzer (Linux)
 * Magyarlánc Hungarian Sentence Splitter
 * Magyarlánc Hungarian Tokenizer
 * Magyarlánc Hungarian Sentence Splitter and Tokenizer

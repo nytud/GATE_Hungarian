@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <CREOLE-DIRECTORY 
   ID="hu.nytud.gate.Lang_Hungarian"
-  VERSION="0.1"
+  VERSION="0.3"
   DESCRIPTION="Hungarian language processing resources"
   HELPURL="http://corpus.nytud.hu/GATE/"
 >
@@ -9,5 +9,6 @@
   <JAR SCAN="true">hungarian.jar</JAR>
   <JAR>resources/dummyctokenizer/lib/dummyctokenizerwrapper.jar</JAR>
   <JAR>resources/magyarlanc/magyarlanc-2.0.1.jar</JAR>
+  <JAR>resources/gate_plugins/Tagger_Framework/TaggerFramework.jar</JAR>
 
 </CREOLE-DIRECTORY>
