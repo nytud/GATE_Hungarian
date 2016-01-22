@@ -53,3 +53,7 @@ Development of more processing resources and ready made applications is under wa
 10. You should now see **Lang_Hungarian** in the list of plugins available to install. Enable the checkbox left to its name in column "Install".
 11. Click on the "Apply All" button to install the plugin. 
 12. You should now see **Lang_Hungarian** in the list of installed plugins on the "Installed Plugins" tab.
+
+**Feedback**
+
+Please contact Márton Miháltz <mmihaltz@gmail.com>
