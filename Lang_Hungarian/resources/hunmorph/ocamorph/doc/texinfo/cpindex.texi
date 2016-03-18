@@ -1,9 +1,0 @@
-@node Concept Index, Files Index, Related Software and Resources, Top
-@unnumbered Concept Index
-
-@printindex cp
-
-@c Local Variables: 
-@c mode: texinfo
-@c TeX-master: "ocamorph.texinfo"
-@c End: 

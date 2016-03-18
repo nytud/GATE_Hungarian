@@ -1,8 +1,0 @@
-@node Bootstrapping, Command-line Control, Installation, Top
-@chapter Bootstrapping
-
-
-@c Local Variables: 
-@c mode: texinfo
-@c TeX-master: "ocamorph.texinfo"
-@c End: 
